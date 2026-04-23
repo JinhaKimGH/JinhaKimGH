@@ -2,7 +2,7 @@
 
 🏫 I study Computer Engineering @ the University of Waterloo.
 
-👨‍💻 I've worked at Principle Inc., onsemi, UntetherAI, RBC, and Capital One.
+👨‍💻 I've worked at Principle Inc., onsemi, UntetherAI, RBC, Capital One, and Snowflake.
 
 🗂️ Check out my [portfolio](https://www.jinhakim.ca/)
 
